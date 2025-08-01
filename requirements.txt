@@ -1,0 +1,8 @@
+streamlit
+pandas
+scikit-learn
+joblib
+numpy
+matplotlib
+xgboost # Only if your saved model is XGBoost
+imbalanced-learn # Only if used in preprocessing in churn_model.py
