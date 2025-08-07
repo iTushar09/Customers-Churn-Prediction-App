@@ -185,7 +185,7 @@ def main():
         
         **Technologies:** Python, Streamlit, Pandas, Scikit-learn, XGBoost.
         
-        [View Source Code on GitHub](https://github.com/iTushar09/Customer-Churn-Prediction-App.git)
+        [View Source Code on GitHub](https://github.com/iTushar09/Customers-Churn-Prediction-App)
         """
     )
 
