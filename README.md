@@ -3,7 +3,7 @@
 A user-friendly web application built with Streamlit that leverages a machine learning model to predict customer churn in real-time. This tool helps businesses proactively identify and retain at-risk customers.
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://itushar09-customer-churn-prediction-app-app1-ly6bml.streamlit.app/)
-
+[![Streamlit App](https://customers-churn-prediction-app.onrender.com)
 ---
 
 ## 🌟 Key Features
